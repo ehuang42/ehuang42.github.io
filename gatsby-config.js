@@ -5,7 +5,9 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: `Eva`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
