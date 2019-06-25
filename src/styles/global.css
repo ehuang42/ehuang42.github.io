@@ -5,6 +5,12 @@ html {
     background-color: coral;
     /* text-decoration: "underline"; */
 }
+.nav-bar:hover {
+    background-color: azure;
+}
+.list_link:hover{
+  background-color: greenyellow;
+}
 .avatar {
   border-radius: 50%;
 }

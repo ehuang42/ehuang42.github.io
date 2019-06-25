@@ -4,14 +4,22 @@ import photo from '../assets/goldman.jpg'
 
 export default () => (
   <Layout>
-  <div style={{ margin: `3rem auto`, maxWidth: 600 }}>
+  <div style={{ margin: "3rem auto", maxWidth: 750 }}>
+  <p id="demo"></p>
+    <section id="setion03">
+      <h1>I'm a third year CS major</h1>
+      <p>
+        What do I like to do? Lots of course but definitely enjoy building
+        websites.
+      </p>
+      <img src={photo} className="avatar" alt=""></img>
+      <a href="#sec_2"><span></span>Scroll</a>
+    </section>
 
-    <h1>Hi! I'm building a fake Gatsby site as part of a tutorial!</h1>
-    <p>
-      What do I like to do? Lots of course but definitely enjoy building
-      websites.
-    </p>
-    <img src={photo} className="avatar" alt=""></img>
+    <section id="sec_2">
+    </section>
   </div>
   </Layout>
 )
+
+
