@@ -6,7 +6,9 @@ export default () => (
   <Layout>
     <div style={{ color: `teal` }}>
     <Header headerText="Hire me!"> </Header>
-      <p>Send Eva a message!</p>
+      <p>
+        <a href="mailto:ehuang42@gatech.edu">ehuang42@gatech.edu</a>
+      </p>
     </div>
   </Layout>
 

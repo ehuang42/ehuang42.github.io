@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
+import photo from '../assets/goldman.jpg'
 
 export default () => (
   <Layout>
@@ -10,6 +11,7 @@ export default () => (
       What do I like to do? Lots of course but definitely enjoy building
       websites.
     </p>
+    <img src={photo} className="avatar" alt=""></img>
   </div>
   </Layout>
 )
