@@ -2,7 +2,7 @@ html {
     background-color: #ffffff;
 }
 .coral:hover {
-    background-color: coral;
+    background-color: goldenrod;
     /* text-decoration: "underline"; */
 }
 .nav-bar:hover {
@@ -11,6 +11,7 @@ html {
 .list_link:hover{
   background-color: greenyellow;
 }
-.avatar {
-  border-radius: 50%;
+.photo {
+  border-radius: 30%;
 }
+
