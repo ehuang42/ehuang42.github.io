@@ -1,16 +1,7 @@
 html {
     background-color: #ffffff;
 }
-.coral:hover {
-    background-color: goldenrod;
-    /* text-decoration: "underline"; */
-}
-.nav-bar:hover {
-    background-color: azure;
-}
-.list_link:hover{
-  background-color: greenyellow;
-}
+
 .photo {
   border-radius: 30%;
 }
