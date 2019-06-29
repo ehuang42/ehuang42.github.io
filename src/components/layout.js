@@ -2,6 +2,7 @@ import React from "react"
 import Nav from 'react-bootstrap/Nav'
 import '../styles/global.css'
 
+
 export default ({ children }) => (
   // nav bar on top
   <div style={{ margin: `3rem auto`, maxWidth: 8000, padding: `0 2rem` }}>
