@@ -1,5 +1,4 @@
 import React from "react"
-import Button from 'react-bootstrap/Button'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import '../styles/global.css'
 import containerStyles from "../styles/jumbo.module.css"

@@ -1,8 +1,12 @@
 import React from "react"
 import Layout from "../components/layout"
-// import Button from 'react-bootstrap/Button'
 import Accordion from 'react-bootstrap/Accordion'
+// import Button from 'react-bootstrap/Button'
+import resume from '../assets/Eva_Huang_resume.pdf'
+
+
 import Card from 'react-bootstrap/Card'
+// import Button from "../components/button"
 
 
 class About extends React.Component{
@@ -16,19 +20,30 @@ class About extends React.Component{
         };
 
     }
+    // 
     render () {
       return (
           <Layout>
-            <p>nothing</p>
-            {/* <Button variant="primary" onClick={this.showAlert}>Primary</Button> */}
+            
+              <a href={resume} download="Eva_Huang_resume">Download resume</a>
+
            <div>
+           <br/>
              <Accordion defaultActiveKey="0">
               <Card>
                 <Accordion.Toggle as={Card.Header} eventKey="0">
-                  Click me!
+                  Education
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="0">
-                  <Card.Body>Hello! I'm the body</Card.Body>
+                  <Card.Body>
+                    <h4>Georgia Institute of Technology</h4>
+                    <ul>
+                      <li>Expected graduation : Spring 2021</li>
+                      <li>Candidate for Bachelor of Science in Computer Science, minor in Global Development</li>
+                      <li>AI and Infonetwork track</li>
+                    </ul>
+                    <p>
+                    </p></Card.Body>
                 </Accordion.Collapse>
               </Card>
               <Card>

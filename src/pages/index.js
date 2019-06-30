@@ -1,11 +1,11 @@
 import React from "react"
 import Layout from "../components/layout"
-// import Button from "react-bootstrap/Button"
 
 import 'bootstrap/dist/css/bootstrap.css';
 import '../styles/global.css'
 // import Image from 'react-bootstrap/Image'
 import Jumbo from "../components/jumbo";
+// import Button from "../components/button";
 
 class App extends React.Component {
   constructor(props) {
@@ -23,8 +23,18 @@ class App extends React.Component {
     return (
         <Layout>
           <Jumbo>
-
+          
           </Jumbo>
+
+          <p>
+            If life is too short, make some meaningful connections today!
+          </p>
+
+          <h5>My life</h5>
+          {/* <Button>
+            
+          </Button> */}
+          
         </Layout>
   )}
   
