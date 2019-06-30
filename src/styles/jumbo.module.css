@@ -1,4 +1,13 @@
 
 .jumbo {
-    background-color: #7986CB;
+    background-image: url('../assets/front_cover.png');
+    background: contain;
+    width: 100%; /* make sure to define width to fill container */
+    height: 560px; /* define the height in pixels or make sure   */
+                   /* you have something in your div with height */
+                   /* so you can see your image */
+    max-width:1500px;  /* define the max width */
+    
   }
+
+  /*  */

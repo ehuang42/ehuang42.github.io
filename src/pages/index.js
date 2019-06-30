@@ -1,15 +1,11 @@
 import React from "react"
 import Layout from "../components/layout"
 // import Button from "react-bootstrap/Button"
-// import photo from '../assets/goldman.jpg'
-
 
 import 'bootstrap/dist/css/bootstrap.css';
 import '../styles/global.css'
-import Jumbo from '../components/jumbo'
-
-// import Jumbotron from "react-bootstrap/Jumbotron";
-
+// import Image from 'react-bootstrap/Image'
+import Jumbo from "../components/jumbo";
 
 class App extends React.Component {
   constructor(props) {
@@ -27,17 +23,8 @@ class App extends React.Component {
     return (
         <Layout>
           <Jumbo>
-             
+
           </Jumbo>
-          {/* <Jumbotron>
-          <h1>Welcome!</h1>
-        <p>
-            This is a personal website of a third year CS student at Georgia Tech,
-        </p>
-        <p>
-            <Button variant="primary">Learn more</Button>
-        </p>
-          </Jumbotron> */}
         </Layout>
   )}
   
