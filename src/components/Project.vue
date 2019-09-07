@@ -22,7 +22,7 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="article animate-box">
-							<a href="/ohbot-website" class="blog-img">
+							<a href="blog.html" class="blog-img">
 								<img class="img-responsive" src="../assets/website.png" alt="html5 bootstrap by colorlib.com">
 								<div class="overlay"></div>
 								<div class="link">
@@ -31,14 +31,14 @@
 							</a>
 							<div class="desc">
 								<span class="meta">July, 2019</span>
-								<p style="font-size: 32px;"><a href="/ohbot-website" style=" color: black">Official Website Renovation</a></p>
+								<p style="font-size: 32px;"><a href="" style=" color: black">Official Website Renovation</a></p>
 								<p>This summer I owned the project of renovating my company's public-facing website ! </p>
 							</div>
 						</div>						
 					</div>
 					<div class="col-md-4">
 						<div class="article animate-box">
-							<a href="/ohbot-dashboard" class="blog-img">
+							<a href="blog.html" class="blog-img">
 								<img class="img-responsive" src="../assets/ecomm.png" alt="html5 bootstrap by colorlib.com">
 								<div class="overlay"></div>
 								<div class="link">
@@ -47,7 +47,7 @@
 							</a>
 							<div class="desc">
 								<span class="meta">Aug, 2019</span>
-								<p style="font-size: 32px;"><a href="/ohbot-dashboard" style=" color: black">E-Commerce Platform</a></h2>
+								<p style="font-size: 32px;"><a href="" style=" color: black">E-Commerce Platform</a></h2>
 								<p>First time doing solo web development. I built a e-commerce web module to support customized client needs.</p>
 							</div>
 						</div>
@@ -57,7 +57,7 @@
 
 					<div class="col-md-4">
 						<div class="article animate-box">
-							<a href="/ohbot-ecommerce" class="blog-img">
+							<a href="blog.html" class="blog-img">
 								<img class="img-responsive" src="../assets/dash.png" alt="html5 bootstrap by colorlib.com">
 								<div class="overlay"></div>
 								<div class="link">
@@ -66,7 +66,7 @@
 							</a>
 							<div class="desc">
 								<span class="meta">June - Aug., 2019</span>
-								<p style="font-size: 32px;"><a href="/ohbot-ecommerce" style=" color: black">Logistics Dashboard</a></h2>
+								<p style="font-size: 32px;"><a href="" style=" color: black">Logistics Dashboard</a></h2>
 								<p>I took part building the dynamic business logistics dashboard for our clients during the majority of my internship in Taiwan.</p>
 							</div>
 						</div>

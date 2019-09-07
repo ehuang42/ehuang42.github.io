@@ -1,7 +1,5 @@
 # porfolio
 
-This is my personal website, powered by VueJS, HTML5 and CSS.
-
 ## Project setup
 ```
 yarn install
