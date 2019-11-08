@@ -61,8 +61,8 @@
 								<p style="font-size: 20px; color: #685454; text-align: center">What's new ?</p>
 								<p style="text-align: center">
 								<ul>
+									<li>Incoming Summer SWE Intern @ Climate Corp SF</li>
 									<li>Minoring in Sustainable Cities </li>
-									<li>Finding an internship </li>
 									<li>Current President of Taiwanese American Student Association @GT</li>
 								</ul></p>
 								<!-- <p style="text-align: center" >
